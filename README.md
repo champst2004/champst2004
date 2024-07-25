@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-There is a land where I share toys and have a break.
+"I am something of a scientist myself" - Norman Osborn
 
 <details>
 <summary>⚡️ More about my coding life</summary>
