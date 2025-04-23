@@ -4,11 +4,11 @@ I'm a student in India. I enjoy coding and will soon start contributing in open 
 
 ## 👇 Current project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=champst2004&repo=pune-metro&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/champst2004/pune-metro) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=champst2004&repo=chronocode&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/champst2004/chronocode) &nbsp; 
+Currently not working on any project  
 
 ## 🖥 Past work
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=champst2004&repo=pune-metro&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/champst2004/pune-metro) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=champst2004&repo=chronocode&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/champst2004/chronocode) &nbsp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=champst2004&repo=steganography-cpp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/champst2004/steganography-cpp) &nbsp; 
 
 ## 🧰 My toolbox
